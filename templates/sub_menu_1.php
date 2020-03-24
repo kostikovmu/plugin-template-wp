@@ -1,0 +1,2 @@
+<?
+defined ('ABSPATH') || exit();
